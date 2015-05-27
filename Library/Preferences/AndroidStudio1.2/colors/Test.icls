@@ -1,0 +1,13 @@
+<scheme name="Test" version="141" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <colors>
+    <option name="FILESTATUS_HIJACKED" value="9b21b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="20ff17" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="26ff38" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="2eff2d" />
+    <option name="FILESTATUS_UNKNOWN" value="283499" />
+    <option name="FILESTATUS_changelistConflict" value="1e27ff" />
+  </colors>
+</scheme>
